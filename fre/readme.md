@@ -1,11 +1,16 @@
 TaDiRAH − version française
 ==========================
 
-## Traduction
+Cette traduction est une contribution d'[Humanistica](http://www.humanisti.ca), l'association francophone des humanités numériques.
+
+## Équipe
 
 + Aurélien Berra
 + Thibault Clérice
 + Martin Grandjean
 + Vincent Razanajao
 
-Cette traduction est une contribution d'[Humanistica](http://www.humanisti.ca), l'association francophone des humanités numériques.
+## Dates
+
+2017-02-24 (tous)
+2017-08-24 et 2017-08-25 (AB)
