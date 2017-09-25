@@ -43,7 +43,7 @@ La Transcription est l'activité qui consiste à créer une représentation d'un
 
 2 – Création
 ============
-La Création désigne en général l'activité qui consiste à produire des objets nativement numériques, plutôt qu'à créer des objets numériques par l'acquisition et la numérisation d'objets analogues déjà existants. La création peut impliquer d'écrire un texte dans une langue naturelle (voir Écriture), mais, si on l'envisage plus largement comme la création d'une chaîne de symboles discrets, elle peut également concerner d'autres formes d'expression, comme créer un code exécutable (voir Programmation), composer une partition de musique ou créer une image.
+La Création désigne en général l'activité qui consiste à produire des objets nativement numériques, plutôt qu'à créer des objets numériques par l'acquisition et la numérisation d'objets de type analogique déjà existants. La création peut impliquer d'écrire un texte dans une langue naturelle (voir Écriture), mais, si on l'envisage plus largement comme la création d'une chaîne de symboles discrets, elle peut également concerner d'autres formes d'expression, comme créer un code exécutable (voir Programmation), composer une partition de musique ou créer une image.
 
 Design
 ------
@@ -59,11 +59,11 @@ La Traduction consiste à créer un nouvel objet linguistique fondé sur un docu
 
 Développement Web
 -----------------
-Création de sites Web, soit à partir d'une plateforme (systèmes de gestion de contenus comme Drupal, WordPress et Omeka) soit avec du code HTML et des CSS. Écrire un module ou un greffon pour une plateforme et programmer des applications Web sont des activités qui appartiennent à la méthode "Programmation". <!-- "method" ne semble pas un terme technique dans TaDIRAH… -->
+Création de sites Web, soit à partir d'une plateforme (systèmes de gestion de contenus comme Drupal, WordPress ou Omeka) soit avec du code HTML et des CSS. Écrire un module ou un greffon pour une plateforme et programmer des applications Web sont des activités qui appartiennent à la méthode "Programmation". <!-- "method" ne semble pas un terme technique dans TaDIRAH… -->
 
 Écriture
 --------
-L'Écriture est l'activité qui consiste à créer de nouveaux textes (au lieu d'acquérir des textes existants). Dans le présent contexte, cela concernera surtout les articles et les rapports  scientifiques, mais pourra aussi comprendre d'autres objets en rapport avec le texte. <!-- "other textually-oriented objects" : peu clair -->
+L'Écriture est l'activité qui consiste à créer de nouveaux textes (au lieu d'acquérir des textes existants). Dans le présent contexte, cela concernera surtout les articles et les rapports scientifiques, mais pourra aussi comprendre d'autres objets en rapport avec le texte. <!-- "other textually-oriented objects" : peu clair -->
 
 3 – Enrichissement
 ==================
@@ -183,7 +183,7 @@ Le Partage est l'activité qui consiste à rendre des objets publiquement dispon
 Méta-activités
 ==============
 
-Les Méta-activités sont des activités qui, contrairement aux activités de recherche normales, ne concernent pas directement un objet de recherche, mais plutôt la combinaison d'une activité de recherche et d'un objet de recherche. Des cas représentatifs seraient un tutoriel destiné à enseigner l'encodage numérique de la musique ou un rapport présentant l'usage de la reconnaissance de formes pour l'analyse des images. L'étiquette Méta-activités peut permettre de fournir des informations supplémentaires dans le cas typique d'un couple d'étiquette activité + objet. Cependant, dans certains cas, la catégorie de Méta-activités peut aussi s'appliquer à des objets, par exemple s'il s'agit d'objets comme "Infrastructure" ou "Humanités numériques" ("*Digital Humanities*").
+Les Méta-activités sont des activités qui, contrairement aux activités de recherche habituelles, ne concernent pas directement un objet de recherche, mais plutôt la combinaison d'une activité de recherche et d'un objet de recherche. Des cas représentatifs seraient un tutoriel destiné à enseigner l'encodage numérique de la musique ou un rapport présentant l'usage de la reconnaissance de formes pour l'analyse des images. L'étiquette Méta-activités peut permettre de fournir des informations supplémentaires dans le cas typique d'un couple d'étiquette activité + objet. Cependant, dans certains cas, la catégorie de Méta-activités peut aussi s'appliquer à des objets, par exemple s'il s'agit d'objets comme "Infrastructure" ou "Humanités numériques" ("*Digital Humanities*").
 
 Méta : Évaluation
 -----------------
